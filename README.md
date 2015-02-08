@@ -13,7 +13,7 @@ So what below script can get you:
 
 You write a text file, and when you want to insert photos you just write the filename of that photo in its separate line. Save. 
 
-Then, when you run the script, it will upload the file, replace the filename with a <img src="XXX" width="600"></img> tag, and save it to another textfile. 
+Then, when you run the script, it will upload the file, replace the filename with a < img src="XXX" width="600" / >< /img > tag, and save it to another textfile. 
 
 After which you can copy/paste that text into your blog, in the mode where you can put HTML codes.
 
